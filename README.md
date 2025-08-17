@@ -1,4 +1,4 @@
-# Personal Academic Website - Vo Hoang Nhat Khang (Chris)
+# Personal Academic Website - Pham Le Ngoc Son (Andrew)
 
 A professional, responsive personal website showcasing research achievements, publications, and projects. Built with modern web technologies and optimized for GitHub Pages hosting.
 
